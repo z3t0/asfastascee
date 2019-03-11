@@ -33,3 +33,26 @@ OpenJDK 64-Bit Server VM (build 11.0.2+7, mixed mode)
 javac 11.0.2
 ```
 
+# system info
+```sh
+[vagrant@arch asfastascee]$ neofetch
+                   -`                    vagrant@arch.localdomain
+                  .o+`                   ------------------------
+                 `ooo/                   OS: Arch Linux x86_64
+                `+oooo:                  Host: VirtualBox 1.2
+               `+oooooo:                 Kernel: 4.20.4-arch1-1-ARCH
+               -+oooooo+:                Uptime: 12 hours, 18 mins
+             `/:-:++oooo+:               Packages: 390 (pacman)
+            `/++++/+++++++:              Shell: bash 5.0.0
+           `/++++++++++++++:             Terminal: /dev/pts/1
+          `/+++ooooooooooooo/`           CPU: Intel i5-5257U (2) @ 2.699GHz
+         ./ooosssso++osssssso+`          GPU: VirtualBox Graphics Adapter
+        .oossssso-````/ossssss+`         Memory: 146MiB / 3944MiB
+       -osssssso.      :ssssssso.
+      :osssssss/        osssso+++.
+     /ossssssss/        +ssssooo/-
+   `/ossssso+/:-        -:/+osssso+-
+  `+sso+:-`                 `.-/+oso:
+ `++:.                           `-/+/
+ .`                                 `/
+```
